@@ -6,6 +6,12 @@ For information on how to use this repository, see [Python](https://docs.microso
 | Example | Build status |
 | Example | Build status |
 
+
+| Example | Build status |
+| Example | Build status |
+| Example | Build status |
+
+
 |---------|--------------|
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
